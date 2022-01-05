@@ -1,0 +1,2 @@
+1. Add a node to call the global_localization service of AMCL, navigate the robot, and check whether the robot has localized or not based on a given covarance value (check against x, y and z values of the covriance matrix).
+2. Shift all AMCL parameters from launch file to a separate .yaml file.
