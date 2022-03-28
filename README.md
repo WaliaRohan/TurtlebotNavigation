@@ -1,5 +1,5 @@
 # TurtlebotNavigation
-# The turtlebot3_nav_bringup
+# turtlebot3_nav_bringup
 This catkin package contains launch files for the following - 
 
 1. turtlebot3 gazebo simulations in different environments (including empty world, turtlebot3_world and house) with a custom rviz configuration
