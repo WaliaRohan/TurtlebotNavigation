@@ -1,4 +1,4 @@
 [submodule "turtlebot3_simulations"]
-	path = ./turtlebot3_simulations
+	path = turtlebot3_simulations
 	url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations
 	branch = noetic-devel
