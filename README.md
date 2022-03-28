@@ -1,4 +1,8 @@
 # TurtlebotNavigation
+
+## Cloning this repo
+Please use **git clone --recursive git@github.com:WaliaRohan/TurtlebotNavigation.git** to properly clone this repo (this command also clones the submodule **turtlebot3_simulations**)
+
 ## turtlebot3_nav_bringup
 This catkin package contains launch files for the following - 
 
